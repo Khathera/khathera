@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Khathera Rezaie | Computer Science and Cybersecurity" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111e,45:0e3a42,100:0b7b69&height=215&section=header&text=Khathera%20Rezaie&fontSize=43&fontColor=E5FFF8&fontAlignY=37&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20Web%20Development&descAlignY=60&descSize=16" />
+  <img width="100%" alt="Khathera Rezaie — Computer Science | Cybersecurity | Web Development" src="assets/profile-banner.png" />
 
   <img alt="Computer Science student, full-stack web developer, cybersecurity researcher" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3400&pause=1100&color=47E0BC&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Full-Stack+Web+Developer;Exploring+Cybersecurity+%26+Penetration+Testing;Learning%2C+Researching%2C+Building" />
 </div>
